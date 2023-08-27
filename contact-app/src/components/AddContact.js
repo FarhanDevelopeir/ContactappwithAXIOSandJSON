@@ -20,7 +20,7 @@ function AddContact(props) {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (name === '' || email === '') {
-      alert('Please fill out all fields')
+      alert('Please fill out evry fields')
     } else {
       addcontactdata({name, email});
       navigate('/')
