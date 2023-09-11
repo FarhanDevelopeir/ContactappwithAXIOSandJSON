@@ -1,0 +1,9 @@
+.style {
+    /* transition: height 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden; */
+    border:2px solid red;
+  }
+.iten{
+    border: 2px solid black;
+    border-radius: 10px;
+}
